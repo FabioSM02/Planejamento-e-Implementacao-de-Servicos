@@ -61,7 +61,7 @@ $ sudo systemctl status bind9
 - <a href="https://www.postfix.org/" target="_blank">Postfix</a>
     ## :page_with_curl: Licença
 
-    <h4>Esse projeto está sob a licença MIT. Veja o arquivo License* para mais detalhes</h4>
+    <h4>Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/FabioSM02/Planejamento-e-Implementacao-de-Servicos/blob/day01/LICENSE" target="_blank">License</a> para mais detalhes</h4>
 
     <h4 align="center">SEGMA 04 - 2022</h4>
 </div>
