@@ -11,7 +11,7 @@
         <img src="" style=""/>
     </p>
 
-    - Instalando Bind 9
+- Instalando Bind 9
 
 ```
 $ sudo apt install -y bind9 bind9utils bind9-doc dnsutils
