@@ -2,13 +2,15 @@
 
 <div>
     <h4>
-        Texto de boas vindas e explicação do projeto.
+        O objetivo deste trabalho é demonstrar a implementação e configuração de um servidor DNS, através do programa de gestão de servidor Webmin.
+        Contando com dois clientes Ubuntu 20.04 e dois servers Ubuntu 20.04 (primário e secundário) para este ambiente.
+        Segue abaixo a topologia do projeto:
     </h4>
     <p 
         align="center" 
         style="max-width: 100%;"
     >
-        <img src="" style=""/>
+        <img src="https://ibb.co/zr1hHLX" style=""/>
     </p>
 
 - Instalando Bind 9
