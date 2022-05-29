@@ -6,12 +6,13 @@
         Contando com dois clientes Ubuntu 20.04 e dois servers Ubuntu 20.04 (primário e secundário) para este ambiente.
         Segue abaixo a topologia do projeto:
     </h4>
-    <!--<p 
-        align="center" 
-        style="max-width: 100%;"
-    > -->
+    <p 
+        style="max-width: 100%; align: center;"
+    >
         <img src="https://i.ibb.co/yXDnBM6/topologia.jpg" alt="topologia" border="0">
-    <!--</p> -->
+    </p>
+
+<br/><br/>
 
 - Instalando Bind 9
 
