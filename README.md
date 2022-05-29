@@ -7,9 +7,9 @@
         Segue abaixo a topologia do projeto:
     </h4>
     <p 
-        style="max-width: 100%;"
+        style="max-width: 100%; display: flex; justify-content: center;"
     >
-        <img src="https://i.ibb.co/yXDnBM6/topologia.jpg" style="align: center" alt="topologia" border="0">
+        <img src="https://i.ibb.co/yXDnBM6/topologia.jpg" alt="topologia">
     </p>
 
 <br/><br/>
